@@ -52,9 +52,17 @@ A partir del análisis de datos de ventas, rendimiento y reseñas de clientes, s
 
 ## ✅ Recomendación final
 
-> 💡 *Aquí debes insertar tu recomendación basada en los resultados del análisis del notebook*.  
-> Por ejemplo:  
-> **Después de evaluar los datos, se concluye que la tienda `Alura Store Norte` presenta el menor rendimiento general, por lo que se recomienda al Sr. Juan considerar su venta.**
+> 🧠 **Análisis basado en los datos del proyecto**
+>
+> Tras analizar los ingresos, los productos más vendidos por categoría y otras métricas clave de rendimiento de las tiendas, se concluye que:
+>
+> - **La Tienda 4** presenta el menor nivel de ingresos durante el período evaluado.
+> - Tiene un volumen de ventas inferior en comparación con las otras tres tiendas.
+> - Las categorías más populares no logran destacar en esta tienda, lo que puede reflejar una baja conexión con la demanda del mercado o posibles ineficiencias operativas.
+>
+> 💡 **Recomendación**:  
+> Se sugiere al Sr. Juan considerar la **venta de la Tienda 4**, ya que es la menos rentable según los datos disponibles. Esta decisión permitiría liberar recursos estratégicos para enfocarlos en su nuevo emprendimiento, mientras se mantienen las tiendas más fuertes y rentables en operación.
+
 
 ---
 
@@ -63,5 +71,5 @@ A partir del análisis de datos de ventas, rendimiento y reseñas de clientes, s
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/trabajo-senor-juan.git
-cd trabajo-senor-juan
+https://github.com/DilanSanchez2004/Alura-Store.git
+cd Alura-Store
